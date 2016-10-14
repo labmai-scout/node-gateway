@@ -1,0 +1,11 @@
+{
+    "id": "node-gateway",
+    "name": "Study Node 信息接口",
+    "description": "Study Gateway",
+    "version": "0.1.0",
+    "dependencies": {
+        "gini": ">=0.6.0",
+        "locale": "*",
+        "campus-gateway": "*"
+    }
+}
